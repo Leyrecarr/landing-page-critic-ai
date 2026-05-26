@@ -1,0 +1,45 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="32" fill="#070A12"/>
+  <circle cx="260" cy="120" r="220" fill="#2C7DFF" opacity="0.18"/>
+  <circle cx="920" cy="90" r="260" fill="#9D5CFF" opacity="0.18"/>
+  <rect x="64" y="54" width="1072" height="612" rx="32" fill="white" fill-opacity="0.055" stroke="white" stroke-opacity="0.12"/>
+  <text x="104" y="112" fill="white" font-family="Arial" font-size="30" font-weight="700">Landing Page Critic AI</text>
+  <text x="104" y="146" fill="#8EA0B8" font-family="Arial" font-size="16">Senior UX audit generated from a landing page screenshot</text>
+  <rect x="104" y="190" width="280" height="190" rx="24" fill="#0E1422" stroke="white" stroke-opacity="0.12"/>
+  <text x="132" y="238" fill="#8EA0B8" font-family="Arial" font-size="15">Global score</text>
+  <text x="132" y="310" fill="white" font-family="Arial" font-size="72" font-weight="700">78</text>
+  <text x="238" y="310" fill="#8EA0B8" font-family="Arial" font-size="22">/100</text>
+  <rect x="132" y="334" width="210" height="10" rx="5" fill="white" fill-opacity="0.12"/>
+  <rect x="132" y="334" width="164" height="10" rx="5" fill="#67E8F9"/>
+  <rect x="416" y="190" width="320" height="190" rx="24" fill="#0E1422" stroke="white" stroke-opacity="0.12"/>
+  <text x="444" y="238" fill="white" font-family="Arial" font-size="20" font-weight="700">Top quick win</text>
+  <text x="444" y="276" fill="#8EA0B8" font-family="Arial" font-size="16">Make the primary CTA visually dominant</text>
+  <text x="444" y="304" fill="#8EA0B8" font-family="Arial" font-size="16">and repeat it after social proof.</text>
+  <rect x="444" y="332" width="98" height="30" rx="15" fill="#67E8F9" fill-opacity="0.14"/>
+  <text x="466" y="353" fill="#67E8F9" font-family="Arial" font-size="13" font-weight="700">High impact</text>
+  <rect x="768" y="190" width="328" height="190" rx="24" fill="#0E1422" stroke="white" stroke-opacity="0.12"/>
+  <text x="796" y="238" fill="white" font-family="Arial" font-size="20" font-weight="700">Senior review</text>
+  <text x="796" y="276" fill="#8EA0B8" font-family="Arial" font-size="16">Strong visual direction, but the hero</text>
+  <text x="796" y="304" fill="#8EA0B8" font-family="Arial" font-size="16">section needs sharper message hierarchy</text>
+  <text x="796" y="332" fill="#8EA0B8" font-family="Arial" font-size="16">and stronger trust cues.</text>
+  <g>
+    <rect x="104" y="420" width="992" height="188" rx="24" fill="#0E1422" stroke="white" stroke-opacity="0.12"/>
+    <text x="132" y="466" fill="white" font-family="Arial" font-size="20" font-weight="700">Category scores</text>
+    <text x="132" y="512" fill="#8EA0B8" font-family="Arial" font-size="15">CTA clarity</text>
+    <rect x="250" y="500" width="260" height="10" rx="5" fill="white" fill-opacity="0.12"/>
+    <rect x="250" y="500" width="177" height="10" rx="5" fill="#67E8F9"/>
+    <text x="532" y="512" fill="white" font-family="Arial" font-size="15">68</text>
+    <text x="132" y="552" fill="#8EA0B8" font-family="Arial" font-size="15">Visual hierarchy</text>
+    <rect x="250" y="540" width="260" height="10" rx="5" fill="white" fill-opacity="0.12"/>
+    <rect x="250" y="540" width="198" height="10" rx="5" fill="#9D5CFF"/>
+    <text x="532" y="552" fill="white" font-family="Arial" font-size="15">76</text>
+    <text x="632" y="512" fill="#8EA0B8" font-family="Arial" font-size="15">Trust</text>
+    <rect x="720" y="500" width="260" height="10" rx="5" fill="white" fill-opacity="0.12"/>
+    <rect x="720" y="500" width="179" height="10" rx="5" fill="#67E8F9"/>
+    <text x="1002" y="512" fill="white" font-family="Arial" font-size="15">69</text>
+    <text x="632" y="552" fill="#8EA0B8" font-family="Arial" font-size="15">Readability</text>
+    <rect x="720" y="540" width="260" height="10" rx="5" fill="white" fill-opacity="0.12"/>
+    <rect x="720" y="540" width="224" height="10" rx="5" fill="#9D5CFF"/>
+    <text x="1002" y="552" fill="white" font-family="Arial" font-size="15">86</text>
+  </g>
+</svg>
